@@ -78,15 +78,6 @@ body {
     overflow: hidden;
 }
 
-#intro {
-    position: absolute;
-    left: 0;
-    top: initial;
-    padding: 0 10px;
-    width: 100%;
-    text-align: center;
-}
-
 h2 {
     text-transform: uppercase;
     font-size: 50px;
