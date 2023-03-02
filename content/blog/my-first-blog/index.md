@@ -54,9 +54,10 @@ A screenshot of the bike used as a faster mode of transport for the player
 
 And here's some gifs I recorded to showcase various gameplay systems
 ![A gif of the bike in the later stages of it's development (showcasing how the player can get on and ride it)](./gifs/bike8.gif)
+A gif of the bike in the later stages of it's development (showcasing how the player can get on and ride it
 
 ![A gif showcasing part of the dialogue system. Although it isn't obvious due to how fast the gif is, it's showcasing branching dialogue by having different dialogue appear the second time you talk to the NPC](./gifs/Dialogue.gif)
+A gif showcasing part of the dialogue system. Although it isn't obvious due to how fast the gif is, it's showcasing branching dialogue by having different dialogue appear the second time you talk to the NPC
 
 ![A gif showcasing the chain-of-responsibility system used in the game to take control away from player. In this gif, the player walks up to a vending machine and presses the interact button. This causes the game to take control away from the player, then the cutscene system moves the player to the correct spot infront of the vending machine, and then the animation system makes them play the drinking animation, before giving control back to the player when the animation is finished. This was designed to be flexible and was based off of a youtube video on a similar system by aarthifical](./gifs/ezgif.com-video-to-gif.gif)
-
-
+A gif showcasing the chain-of-responsibility system used in the game to take control away from player. In this gif, the player walks up to a vending machine and presses the interact button. This causes the game to take control away from the player, then the cutscene system moves the player to the correct spot infront of the vending machine, and then the animation system makes them play the drinking animation, before giving control back to the player when the animation is finished. This was designed to be flexible and was based off of a youtube video on a similar system by aarthifical.
