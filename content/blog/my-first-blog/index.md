@@ -21,28 +21,38 @@ and I realized that I was never going to finish this game. I somewhat always kne
 
 Below is a bunch of screenshots I created of the game during it's development (not in chronological order) as-well as a brief description of what they show.
 
-![A view of the main school building with the floors separated](./Screenshots/Floors.png)
+![A view of the main school building with the floors separated](./screenshots/Floors.png)
+A view of the main school building with the floors separated
 
-![A view of the dorm building with the roof removed](./Screenshots/Dorm.png)
+![A view of the dorm building with the roof removed](./screenshots/Dorm.png)
+A view of the dorm building with the roof removed
 
-![An alley way at the front right side of the school next to the gym building](./Screenshots/Alley.png)
+![An alley way at the front right side of the school next to the gym building](./screenshots/Alley.png)
+An alley way at the front right side of the school next to the gym building
 
-![A view of the gym building with roof removed](./Screenshots/Gym.png)
+![A view of the gym building with roof removed](./screenshots/Gym.png)
+A view of the gym building with roof removed]
 
-![An early view of the map in Unity](./Screenshots/Map1.png)
+![An early view of the map in Unity](./screenshots/Map1.png)
+An early view of the map inside Unity
 
-![A view of the roof of the building in Blender showcasing the details on the roof (HVAC unit, solar panels, and vents)](./Screenshots/Map7.png)
+![A view of the roof of the building in Blender showcasing the details on the roof (HVAC unit, solar panels, and vents)](./screenshots/Map7.png)
+A view of the roof of the building in Blender showcasing the details on the roof (HVAC unit, solar panels, and vents)
 
-![Another early view of the map in Unity](./Screenshots/Rendered.png)
+![Another early view of the map in Unity](./screenshots/Rendered.png)
+Another early view of the map inside Unity
 
-![A greybox view of an early version of the map in Blender](./Screenshots/Grey.png)
+![A greybox view of an early version of the map in Blender](./screenshots/Grey.png)
+A greybox view of an early version of the map in Blender
 
-![A view of the top floor interior in the main school building](./Screenshots/Interior.png)
+![A view of the top floor interior in the main school building](./screenshots/Interior.png)
+A view of the top floor interior in the main school building
 
-![A screenshot of the bike used as a faster mode of transport for the player](./Screenshots/Map2.png)
+![A screenshot of the bike used as a faster mode of transport for the player](./screenshots/Map2.png)
+A screenshot of the bike used as a faster mode of transport for the player
+
 
 And here's some gifs I recorded to showcase various gameplay systems
-
 ![A gif of the bike in the later stages of it's development (showcasing how the player can get on and ride it)](./gifs/bike8.gif)
 
 ![A gif showcasing part of the dialogue system. Although it isn't obvious due to how fast the gif is, it's showcasing branching dialogue by having different dialogue appear the second time you talk to the NPC](./gifs/Dialogue.gif)
