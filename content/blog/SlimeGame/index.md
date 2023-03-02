@@ -9,8 +9,11 @@ Dragon Quest Heroes: Rocket Slime (a 2006 game for the Nintendo DS) has always b
 I first got a [slime model from sketchfab](https://sketchfab.com/3d-models/rimuru-slime-612ff2c805114744b66d3c29c7942371) and modified it to fit my needs (less polycount, and a simple rig). From there, I went about giving it some basic animations to start the character controller with, here's some gifs of these animations in Blender.
 
 ![Walking animation](./gifs/slime%20walk.gif)
+Walking animation
 
 ![A showcase of nearly all of the animations](./gifs/slime%20anims2.gif)
+A showcase of nearly all of the animations
+
 
 Next, I brought the model into Unity and started working on the character controller. I decided to use a statemachine, utilizing unity's built-in statemachine for the animation system, because I felt that with such a complex controller, breaking up the different things the player could do into discrete states, it would allow me to make it modular and less buggy.
 
