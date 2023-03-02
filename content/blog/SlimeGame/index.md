@@ -19,14 +19,12 @@ Next, I brought the model into Unity and started working on the character contro
 
 Here's some videos and gifs showcasing the various stages of development the controller went through
 
-![](https://youtu.be/zkATrNKlhRw)
-The first video showing the controller. This was after I finished movement, jumping, and hovering (no stretching or 'blasting' yet)
+[The first video showing the controller. This was after I finished movement, jumping, and hovering (no stretching or 'blasting' yet)](https://youtu.be/zkATrNKlhRw)
 
-![](https://youtu.be/gD1kC3e5VHg)
-An early video I made after finishing the first 'major' version of the character controller (all states implemented)
 
-![](https://youtu.be/ZGd0BuJf-bU)
-A short video showcasing not only the character movement but also the artstyle of the game with cel-shaded lights, etc.
+[An early video I made after finishing the first 'major' version of the character controller (all states implemented)](https://youtu.be/gD1kC3e5VHg)
+
+[A short video showcasing not only the character movement but also the artstyle of the game with cel-shaded lights, etc.](https://youtu.be/ZGd0BuJf-bU)
 
 ![](./gifs/bungee2.gif)
 A gif created a bit later on showcasing a system for defining how objects can influence how the player bounces off of them. By default, the player loses around half of their velocity after bouncing off of something. The bungee cords(white ropes) in the video, however, make the player lose close to zero velocity, allowing them to bounce a lot more.
