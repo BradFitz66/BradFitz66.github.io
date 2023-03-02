@@ -1,7 +1,7 @@
 ---
 title: 'Red Grove Academy'
 date: '02-02-2023'
-description: 'More details about my first 'actual' solo game project made in Unity'
+description: 'More details about my first "actual" solo game project made in Unity'
 ---
 
 ## Red Grove Academy
