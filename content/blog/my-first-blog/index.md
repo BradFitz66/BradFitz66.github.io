@@ -7,7 +7,7 @@ description: 'More details about my first 'actual' solo game project made in Uni
 ## Red Grove Academy
 Red Grove Academy was my first actual attempt at a solo game project in Unity. It was to be an adventure game set in a boarding school with the story revolving around a mystery within the school. I first started it in 2018 during my time at Southampton City College doing the Game Design course.
 
-The game went through *MANY* revisions. From complete overhauls, to different school designs, to different character designs, to different story ideas, e.t.c. The game also evolved as I did as a developer. As I became more competent as a programmer, understood how to properly utilize design patterns like observer, singleton, chain-of-responsibility, the game got these incorporated into it's codebase to create a pretty modular codebase that I still use parts of in other projects today (such as a custom game event manager).
+The game went through many revisions. From complete overhauls, to different school designs, to different character designs, to different story ideas, e.t.c. The game also evolved as I did as a developer. As I became more competent as a programmer, understood how to properly utilize design patterns like observer, singleton, chain-of-responsibility, the game got these incorporated into it's codebase to create a pretty modular codebase that I still use parts of in other projects today (such as a custom game event manager).
 
 Unfortunately, as I spent more time in this project, the more it became obvious to me I didn't have the skills as a solo developer to pull it off. While the programming side of the game (gameplay systems, etc) was pretty much set in concrete and complete, I still had to:
 
