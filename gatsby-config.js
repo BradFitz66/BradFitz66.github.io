@@ -46,34 +46,37 @@ module.exports = {
         ],
         // Optional: List your experience, they must have `name` and `description`. `link` is optional.
         experience: [{
-                name: 'Acme Corp',
-                description: 'Full-Stack Developer, February 2020 - Present',
-                link: 'https://github.com/RyanFitzgerald/devfolio',
+                name: 'Falmouth University',
+                description: 'Student, 2019-2022 (graduated with a second class honors (lower division) degree in Games Programming',
+                link: '',
             },
             {
-                name: 'Globex Corp',
-                description: 'Full-Stack Developer, December 2017 - February 2020',
-                link: 'https://github.com/RyanFitzgerald/devfolio',
-            },
-            {
-                name: 'Hooli',
-                description: 'Full-Stack Developer, May 2015 - December 2017',
-                link: 'https://github.com/RyanFitzgerald/devfolio',
-            },
+                name: 'Southampton City College',
+                description: 'Student, 2017-2018 (graduated with a diploma in game design)',
+                link: ''
+            }
         ],
         // Optional: List your skills, they must have `name` and `description`.
         skills: [{
-                name: 'Languages & Frameworks',
-                description: 'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+                name: 'Languages',
+                description: 'C#, C++, Lua, Python, Rust, Beef',
             },
             {
-                name: 'Databases',
-                description: 'MongoDB, PostreSQL, MySQL',
+                name: 'Game Engines',
+                description: 'Unity, Unreal, Godot, ROBLOX',
             },
             {
-                name: 'Other',
-                description: 'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+                name: 'Frameworks & Libraries',
+                description: 'SFML, Love2D',
             },
+            {
+                name: 'Workflows',
+                description: "SCRUM, Sprint, Agile"
+            },
+            {
+                name: 'Misc. skills',
+                description: "Git, 3D modelling, 3D rigging, 3D texturing & UV Unwrapping"
+            }
         ],
     },
     plugins: [
