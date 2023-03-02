@@ -19,13 +19,13 @@ Next, I brought the model into Unity and started working on the character contro
 
 Here's some videos and gifs showcasing the various stages of development the controller went through
 
-![](./videos/2022-11-30%2002-33-52.mp4)
+![](https://youtu.be/zkATrNKlhRw)
 The first video showing the controller. This was after I finished movement, jumping, and hovering (no stretching or 'blasting' yet)
 
-![](./videos/shadersandmovement.mp4)
+![](https://youtu.be/gD1kC3e5VHg)
 An early video I made after finishing the first 'major' version of the character controller (all states implemented)
 
-![](./videos/2022-12-08%2007-15-36.mp4)
+![](https://youtu.be/ZGd0BuJf-bU)
 A short video showcasing not only the character movement but also the artstyle of the game with cel-shaded lights, etc.
 
 ![](./gifs/bungee2.gif)
