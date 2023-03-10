@@ -20,17 +20,17 @@ module.exports = {
         projects: [{
                 name: 'Red Grove Academy(2018-2021)',
                 description: "My first 'actual' solo project made in Unity3D. A somewhat ambitious story-based game set in a school. It didn't get much further than a basic concept",
-                link: 'https://master--bradleybathgamedev.netlify.app/blog/my-first-blog/'
+                link: 'https://bradleybathgamedev.netlify.app/blog/RedGroveAcademy/'
             },
             {
                 name: 'Slime game',
                 description: "A small prototype/proof-of-concept centred around a slime-based character controller.",
-                link: 'https://master--bradleybathgamedev.netlify.app/blog/SlimeGame/'
+                link: 'https://bradleybathgamedev.netlify.app/blog/SlimeGame/'
             },
             {
                 name: 'University projects',
                 description: "Projects I made during my time at Falmouth University. These include the 3 main projects (1 per year) I did in a team, utilizing various workflows like SCRUM and Sprint",
-                link: ''
+                link: 'https://bradleybathgamedev.netlify.app/blog/University-Games/'
             },
             {
                 name: 'Parallax "office light" shader',
