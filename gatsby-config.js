@@ -33,13 +33,8 @@ module.exports = {
                 link: 'https://bradleybathgamedev.netlify.app/blog/University-Games/'
             },
             {
-                name: 'Parallax "office light" shader',
-                description: "An 'office light shader' I made in Unity. It uses the 'interior mapping' technique seen in games like Spiderman PS4 to create a convincing office light",
-                link: ''
-            },
-            {
-                name: 'Miscellaneous projects',
-                description: "When developing my solo projects, I usually make gifs to showcase various stuff I made to people on discord servers, etc. This is the result of me going through the hundreds of gifs I have collected and picking out the ones worth talking about",
+                name: 'Miscellaneous projects (WIP)',
+                description: "Small solo projects that don't have a lot to them. Mostly just stuff I made to practice stuff like ECS architecture, etc.",
                 link: ''
             },
 
