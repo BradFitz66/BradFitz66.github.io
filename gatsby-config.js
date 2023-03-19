@@ -35,7 +35,7 @@ module.exports = {
             {
                 name: 'Miscellaneous projects (WIP)',
                 description: "Small solo projects that don't have a lot to them. Mostly just stuff I made to practice stuff like ECS architecture, etc.",
-                link: ''
+                link: 'https://bradleybathgamedev.netlify.app/blog/Miscellaneous-Projects/'
             },
 
         ],
