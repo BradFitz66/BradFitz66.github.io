@@ -17,7 +17,7 @@ A showcase of nearly all of the animations
 
 Next, I brought the model into Unity and started working on the character controller. I decided to use a statemachine, utilizing unity's built-in statemachine for the animation system, because I felt that with such a complex controller, breaking up the different things the player could do into discrete states, it would allow me to make it modular and less buggy.
 
-Here's some videos and gifs showcasing the various stages of development the controller went through
+Here's some videos and gifs showcasing the various stages of development the controller went through(I was unaable to get these to embed properly, instead they are hyperlinks. Please click them to view content. It will open in a new tab.)
 
 [The first video showing the controller. This was after I finished movement, jumping, and hovering (no stretching or 'blasting' yet)](https://youtu.be/zkATrNKlhRw)
 
