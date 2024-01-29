@@ -49,9 +49,6 @@ I also created a bootstrap sytem that made sure that everything was initialized 
 Overall, this one felt like a complete demo. It has a interesting artstyle, good-feeling combat, and good gameplay.
 
 # EcoBoids
-![A gif showcasing 'gameplay' of Ecoboids, showing hundreds of boids flying around on screen](../../../public/assets/University/EcoBoids.gif)
-
- A gif of the game with debug info turned on to show the spatial hash used for optimization.
 
 EcoBoids was a solo project I made for my COMP250 module (Individual Specialist Computing Project: Artifical Intellignece). It was a small ‘sandbox’ filled with a bunch of Boids that followed the traditional boid flocking behaviour. I also added a bunch of other stuff to make it a more of a simulated ecosystem (hence the name of the project). Boids would reproduce and get hunted by predators, as-well as have random stats that would influence a value that determined how suitable they were for mating (faster speed = can outrun predators = can produce offspring with those traits).
 
