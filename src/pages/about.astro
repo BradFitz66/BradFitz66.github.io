@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Bradley Bath" description="About Bradley Bath">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="About"
+				tagline="Below you can read my background and experience as a game developer."
+			>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						I am a graduated (2022) student from the University of Falmouth and are currently looking for my
+						first job in the games industry. I have quite a bit of experience working in teams of people to create games
+						thanks to my time at University. I know multiple industry standard workflows such as "Agile" and "Scrum". 
+					</p>
+					<p>
+						I mostly focus on gameplay programming (such as character controllers, etc) but have experience in graphics
+						programming (shaders, etc), editor tools, 3D modelling(Blender), 3D texturing (substance painter & blender),
+						and 3D animation (Blender).
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>Oasis Academy Mayfield (GCSEs - 2012-2017) </p>
+					<p>Southampton City College (Digital, Media & Games - 2017-2019 )</p>
+					<p>University of Falmouth (Game Development: Programming BA(Hons) - 2019-2022)</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Teamwork</p>
+					<p>Programming (C#, C++, Lua, etc)</p>
+					<p>3D modelling, animation, and texturing (Blender, Substance Painter)</p>
+					<p>Game Engines (Unreal, Unity, Godot, etc)</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-0);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
